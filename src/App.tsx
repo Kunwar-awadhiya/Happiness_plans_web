@@ -1,4 +1,3 @@
-import ReactDOM from 'react-dom/client'
 import React, { useState, useEffect } from 'react';
 import { Phone, Mail, MapPin, Star, Users, Calendar, Plane, Heart, Menu, X, CheckCircle } from 'lucide-react';
 
