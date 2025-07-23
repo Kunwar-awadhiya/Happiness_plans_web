@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Phone, Mail, MapPin, Star, Users, Calendar, Plane, Heart, Menu, X, CheckCircle } from 'lucide-react';
 
-// Type definitions
+// Types definitions
 interface FormData {
   name: string;
   email: string;
